@@ -1,0 +1,65 @@
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\BASE.db
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Строительный калькулятор.exe.config
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Строительный калькулятор.exe.manifest
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Строительный калькулятор.application
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Строительный калькулятор.exe
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Строительный калькулятор.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\DotNetKit.Wpf.Printing.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.Interfaces.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.System.Drawing.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Ookii.Dialogs.Wpf.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\DotNetKit.Wpf.Printing.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\DotNetKit.Wpf.Printing.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Ookii.Dialogs.Wpf.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Ookii.Dialogs.Wpf.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.csproj.AssemblyReference.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddAdminWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddPosition.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AdminPanel.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\errorWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\ExcelWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\RegLogPanel.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\smeta.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор_MarkupCompile.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор_MarkupCompile.lref
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddAdminWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddPosition.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AdminPanel.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\errorWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\ExcelWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\RegLogPanel.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\smeta.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.g.resources
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Construction_calculator.Properties.Resources.resources
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.csproj.GenerateResource.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.csproj.CoreCompileInputs.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.exe.manifest
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.application
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.csproj.CopyComplete
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.exe
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\Строительный калькулятор.pdb

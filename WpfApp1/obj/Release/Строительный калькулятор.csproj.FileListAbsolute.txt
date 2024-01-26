@@ -1,0 +1,65 @@
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\BASE.db
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Строительный калькулятор.exe.config
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Строительный калькулятор.exe.manifest
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Строительный калькулятор.application
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Строительный калькулятор.exe
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Строительный калькулятор.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\DotNetKit.Wpf.Printing.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EntityFramework.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EntityFramework.SqlServer.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EPPlus.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EPPlus.Interfaces.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EPPlus.System.Drawing.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\MaterialDesignColors.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Ookii.Dialogs.Wpf.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\System.ComponentModel.Annotations.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\System.Data.SQLite.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\System.Data.SQLite.EF6.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\System.Data.SQLite.Linq.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\DotNetKit.Wpf.Printing.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\DotNetKit.Wpf.Printing.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EntityFramework.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EntityFramework.SqlServer.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\EPPlus.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\MaterialDesignColors.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Microsoft.Xaml.Behaviors.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Ookii.Dialogs.Wpf.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\Ookii.Dialogs.Wpf.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Release\System.Data.SQLite.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.csproj.AssemblyReference.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\AddAdminWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\AddPosition.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\AdminPanel.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\errorWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\ExcelWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\RegLogPanel.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\smeta.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\App.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор_MarkupCompile.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор_MarkupCompile.lref
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\App.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\AddAdminWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\AddPosition.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\AdminPanel.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\errorWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\ExcelWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\RegLogPanel.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\smeta.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.g.resources
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Construction_calculator.Properties.Resources.resources
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.csproj.GenerateResource.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.csproj.CoreCompileInputs.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.exe.manifest
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.application
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.csproj.CopyComplete
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.exe
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Release\Строительный калькулятор.pdb

@@ -1,0 +1,47 @@
+﻿<Window x:Class="WpfApp1.smeta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"  WindowStartupLocation="CenterOwner"
+        Title="Смета" Height="891" Width="630" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Window.Resources>
+        <FontFamily x:Key="buttonFont">Verdana</FontFamily>
+        <Thickness x:Key="buttonMargin" Bottom="10" Left="10" Top="10" Right="10" />
+        
+        <Style x:Key="ZXC" TargetType="DataGrid">
+        
+        </Style>
+        
+        
+
+    </Window.Resources>
+    <!---->
+    <Grid Background="White" x:Name="MainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="ToPrintGrid">
+            <Border BorderBrush="Black" BorderThickness="2, 2, 0, 0">
+                <DataGrid Foreground="Black" Background="White" Style="{StaticResource ZXC}" x:Name ="MainDataF" CanUserReorderColumns="False"
+                        CanUserAddRows="False"  AutoGenerateColumns="False" 
+                        FontSize="15">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Foreground="Black" IsReadOnly="True" Binding="{Binding Path=Name}" Header="Позиция"/>
+                        <DataGridTextColumn Foreground="Black" IsReadOnly="True" Binding="{Binding Path=Type}" Header="Тип"/>
+                        <DataGridTextColumn Foreground="Black" IsReadOnly="True" Binding="{Binding Path=Price}" Header="Цена"/>
+                        <DataGridTextColumn Foreground="Black" IsReadOnly="True" Binding="{Binding Path=Count}" Header="Количество"/>
+                        <DataGridTextColumn Foreground="Black" IsReadOnly="True" Binding="{Binding Path=Out}" Header="Итого" Width="1*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Border>
+        </StackPanel>
+            
+        <Grid Grid.Row="1">
+            <Button Content="Печать" Style="{StaticResource MaterialDesignFlatButton}" Click="Print" Foreground="Black"></Button>
+        </Grid>
+    </Grid>
+</Window>

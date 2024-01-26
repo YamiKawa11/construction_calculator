@@ -1,0 +1,105 @@
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\BASE.db
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\errorWin.g.cs
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\errorWin.baml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddPosition.g.cs
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddPosition.baml
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\RegLogPanel.g.cs
+C:\Users\stalin\Desktop\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\RegLogPanel.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\BASE.db
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddPosition.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\errorWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\RegLogPanel.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddPosition.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\errorWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\RegLogPanel.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AdminPanel.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AdminPanel.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddAdminWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\AddAdminWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\smeta.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\smeta.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\DotNetKit.Wpf.Printing.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\DotNetKit.Wpf.Printing.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\DotNetKit.Wpf.Printing.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.Interfaces.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.System.Drawing.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\EPPlus.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\ExcelWin.g.cs
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\ExcelWin.baml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Ookii.Dialogs.Wpf.dll
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Ookii.Dialogs.Wpf.pdb
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\Ookii.Dialogs.Wpf.xml
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\bin\Debug\WpfApp1.application
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+D:\save\раб стол 2\курсач\приложение\мой\WpfApp1\WpfApp1\obj\Debug\WpfApp1.application

@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotNetKit.Wpf.Printing</name>
+    </assembly>
+    <members>
+        <member name="T:DotNetKit.Windows.Controls.PrintableDataGridCell">
+            <summary>
+            PrintableDataGridCell.xaml の相互作用ロジック
+            </summary>
+            <summary>
+            PrintableDataGridCell
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.PrintableDataGridCell.#ctor">
+            <summary>
+            Constructs an instance.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.PrintableDataGridCell.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Controls.IPrintableDataGrid">
+            <summary>
+            Represents a UI element to display a list of items linearly.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.IPrintableDataGrid.ItemMeasure(System.Int32)">
+            <summary>
+            Gets the measure (width or height) of the item at the specified index.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.IPrintableDataGrid.ActualMeasure">
+            <summary>
+            Gets the measure (width or height) of the area to display items.
+            If the value is less than sum of <see cref="M:DotNetKit.Windows.Controls.IPrintableDataGrid.ItemMeasure(System.Int32)"/>,
+            some of items are clipped.
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Controls.IPrintableDataGridContainer">
+            <summary>
+            Represents a UI element which contains a <see cref="T:DotNetKit.Windows.Controls.IPrintableDataGrid"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.IPrintableDataGridContainer.DataGrid">
+            <summary>
+            Gets the data grid.
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Controls.PrintableDataGrid">
+            <summary>
+            PrintableDataGrid.xaml の相互作用ロジック
+            </summary>
+            <summary>
+            PrintableDataGrid
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGrid.Columns">
+            <summary>
+            Gets an collection to store columns.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGrid.ItemsSourceProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGrid.ItemsSource"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGrid.ItemsSource">
+            <summary>
+            Gets or sets the sequence of items.
+            This control don't care <see cref="T:System.Collections.Specialized.INotifyCollectionChanged"/>
+            implemented by the sequence.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGrid.RowHeightProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGrid.RowHeight"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGrid.RowHeight">
+            <summary>
+            Gets or sets the height of rows.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.PrintableDataGrid.#ctor">
+            <summary>
+            Constructs an instance.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.PrintableDataGrid.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Controls.PrintableDataGridColumn">
+            <summary>
+            Represents a column of <see cref="T:DotNetKit.Windows.Controls.PrintableDataGrid"/>.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGridColumn.WidthProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.Width"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.Width">
+            <summary>
+            Gets or sets the width of this column.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGridColumn.HeaderProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.Header"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.Header">
+            <summary>
+            Gets or sets the header content for this column.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGridColumn.HeaderTemplateProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.HeaderTemplate"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.HeaderTemplate">
+            <summary>
+            Gets or sets the data template for this column's header.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGridColumn.HeaderTemplateSelectorProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.HeaderTemplateSelector"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.HeaderTemplateSelector">
+            <summary>
+            Gets or sets the data template selector for this column's header.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellTemplateProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellTemplate"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellTemplate">
+            <summary>
+            Gets or sets the data template for this column's cells.
+            </summary>
+        </member>
+        <member name="F:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellTemplateSelectorProperty">
+            <summary>
+            Gets the dependency property of <see cref="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellTemplateSelector"/>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellTemplateSelector">
+            <summary>
+            Gets or sets the data template selector for this column's cells.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellBinding">
+            <summary>
+            Gets or sets the binding expression for the cell content.
+            <c>{Binding}</c> by default. Never returns <c>null</c>.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Controls.PrintableDataGridColumn.CellStyle">
+            <summary>
+            Gets or sets the style for cells.
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Controls.ScaleControl">
+            <summary>
+            Represents a control which contains a UIElement and downscales it if flooded.
+            It doesn't upscale.
+            Basically it contains a TextBlock with text-wrapping or a WrapPanel.
+            </summary>
+            <summary>
+            ScaleControl
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.ScaleControl.MeasureOverride(System.Windows.Size)">
+            <summary>
+            Measures.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.ScaleControl.ArrangeOverride(System.Windows.Size)">
+            <summary>
+            Arranges.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Controls.ScaleControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Documents.InfinitePaginationException">
+            <summary>
+            Represents an exception thrown when the pagination doesn't stop.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Documents.InfinitePaginationException.Message">
+            <summary>
+            Gets the error message.
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Documents.FixedDocumentCreator">
+            <summary>
+            Provides a function.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Documents.FixedDocumentCreator.FromDataContexts(System.Collections.IEnumerable,System.Windows.Size)">
+            <summary>
+            Converts data contexts to a <see cref="T:System.Windows.Documents.FixedDocument"/>.
+            </summary>
+        </member>
+        <member name="T:DotNetKit.Windows.Documents.DataGridPrintablePaginator`1">
+            <summary>
+            Provides <see cref="M:DotNetKit.Windows.Documents.DataGridPrintablePaginator`1.Paginate(DotNetKit.Windows.Documents.IDataGridPrintable{`0},System.Windows.Size)"/> function.
+            </summary>
+            <typeparam name="TItem"></typeparam>
+        </member>
+        <member name="M:DotNetKit.Windows.Documents.DataGridPrintablePaginator`1.Paginate(DotNetKit.Windows.Documents.IDataGridPrintable{`0},System.Windows.Size)">
+            <summary>
+            Paginates a printable into papers of the specified size.
+            </summary>
+            <param name="printable"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DotNetKit.Windows.Documents.IDataGridPrintable`1">
+            <summary>
+            Represents a printable object which contains items.
+            </summary>
+        </member>
+        <member name="P:DotNetKit.Windows.Documents.IDataGridPrintable`1.Items">
+            <summary>
+            Gets the sequence of items.
+            </summary>
+        </member>
+        <member name="M:DotNetKit.Windows.Documents.IDataGridPrintable`1.CreatePage(System.Collections.Generic.IReadOnlyList{`0},System.Int32,System.Int32)">
+            <summary>
+            Creates an object which represents a page with the specified items.
+            </summary>
+        </member>
+    </members>
+</doc>
